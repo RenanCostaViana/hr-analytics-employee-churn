@@ -64,28 +64,12 @@ Modelos testados:
 
 ---
 
-## 📈 Resultados
-
-O modelo com melhor desempenho foi:
-
-> **Random Forest Classifier**  
-> com F1-score aproximado de **XX%** e acurácia de **YY%**  
-> *(substituir pelos valores reais)*
-
-Visualizações como matriz de confusão, curva ROC e feature importance podem ser adicionadas na pasta `/images`.
-
----
-
 ## 🧠 Insights Relevantes
-
-Alguns exemplos que você pode adaptar conforme sua análise:
 
 - Funcionários com baixa satisfação apresentam probabilidade significativamente maior de churn  
 - Certos departamentos possuem taxas de saída acima da média, indicando possíveis problemas de gestão  
 - Salários abaixo da mediana estão fortemente associados ao risco de desligamento  
 - Tempo de empresa muito curto ou muito longo pode indicar padrões distintos de churn  
-
-Se quiser, posso escrever insights específicos com base no seu notebook.
 
 ---
 
